@@ -1,4 +1,4 @@
-# Dynamic Concolication for Automatic Unit Testing of Python Libraries
+# Dynamic Concolication for Automatic Unit Testing
 
 This repository contains the implementation of our research on using PyCT to enhance concolic testing for Python libraries.
 
